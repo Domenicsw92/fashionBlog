@@ -1,2 +1,1 @@
-# fashionBlog
-CodeCademy fashion blog project Html
+This is a CodeCademy Html only project called FashionBlog 
